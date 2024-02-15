@@ -1,9 +1,3 @@
-### Hi there 👋
-
-<!--
-**sameer-bot1/sameer-bot1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 <h1 align="center">Hi 👋, I'm Sameer Bhardiya</h1>
 <h3 align="center">I have pursued my graduation(B.Tech) in Computer Science and Engineering from <a href="https://www.ggu.ac.in/">Guru Ghasidas Vishwavidyalaya, Bilaspur</a>.</h3>
@@ -35,4 +29,4 @@ Here are some ideas to get you started:
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sameer-bot1&show_icons=true&locale=en&layout=compact" alt="sameer-bot1" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sameer-bot1&show_icons=true&locale=en" alt="sameer-bot1" /></p>
--->
+
