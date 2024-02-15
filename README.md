@@ -35,3 +35,4 @@ Here are some ideas to get you started:
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sameer-bot1&show_icons=true&locale=en&layout=compact" alt="sameer-bot1" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sameer-bot1&show_icons=true&locale=en" alt="sameer-bot1" /></p>
+-->
