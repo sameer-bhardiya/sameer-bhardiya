@@ -13,6 +13,8 @@
 
 - 🤝 I’m looking for help with *high potential projects which can positively impact people.*
 
+- 💻 Coding DSA constantly on LeetCode to enhance problem-solving skills and algorithmic proficiency [https://leetcode.com/sameerbhardiya/]
+
 - 👨‍💻 All of my projects are available at [https://github.com/sameer-bot1]
 
 - 📫 How to reach me *sameerbhardiya@gmail.com*
