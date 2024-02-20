@@ -19,7 +19,7 @@
 
 - 📫 How to reach me *sameerbhardiya@gmail.com*
 
-- 📄 Know about my experiences <a href = "https://drive.google.com/file/d/13VDfn3NpmW4p0mdWadNVokOY1bMibVn-/view?usp=sharing">My Resume</a>
+- 📄 Know about my experiences <a href = "https://drive.google.com/file/d/1LjF45GwWj6hN3eygNOGaITmhkVFpFBaw/view?usp=sharing">My Resume</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
