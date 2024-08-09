@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I am Sameer Bhardiya</h1>
-<h3 align="center">I have pursued my graduation(B.Tech) in Computer Science and Engineering from <a href="https://www.ggu.ac.in/">Guru Ghasidas Vishwavidyalaya, Bilaspur</a>.</h3>
+<h3 align="center">I have pursued my graduation(B.Tech) in Computer Science and Engineering from <a href="https://www.ggu.ac.in/">Guru Ghasidas Vishwavidyalaya,Bilaspur</a>.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sameer-bot1&label=Profile%20views&color=0e75b6&style=flat" alt="sameer-bot1" /> </p>
 
